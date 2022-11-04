@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickT256
 - 👀 I’m interested in cryptography
-- 🌱 I’m currently learning about high-speed encryptors deployed in IBM Cloud
+- 🌱 I’m currently learning about high-speed encryptors deployed in the cloud
 - 💞️ I’m looking to collaborate on deployment options
 - 📫 How to reach me: Rick.Robinson@ThalesGroup.com
 
