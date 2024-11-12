@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickT256
 - 👀 I’m very interested (and skilled) in cryptography
-- 🌱 I’m currently Docker, Kubernetes, and application modernization
+- 🌱 I’m currently working on Docker, Kubernetes, and application modernization
 - 💞️ I’m looking to collaborate on deployment options
 - 📫 How to reach me: Rick.Robinson@ThalesGroup.com
 
